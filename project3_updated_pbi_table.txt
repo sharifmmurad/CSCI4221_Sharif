@@ -1,0 +1,13 @@
+CSCI4221 Project 3 - Updated PBI Table
+
+| PBI | Status | Sprint | Estimate | Assigned | Reviewer |
+|------|---------|---------|-----------|-----------|-----------|
+| 1. Research and document user behaviours of busy professionals using scheduling apps | Completed from Project 2 | 2 weeks | One senior UX researcher for 40 hours | Sharif Muhammad | Cameron Brown |
+| 2. Analyze time management and expense tracking needs of students | Completed from Project 2 | 2 weeks | One senior UX researcher for 40 hours | Cameron Brown | Griffin Sanders |
+| 3. Collect insights on how families plan and share events and budgets | Completed from Project 2 | 2 weeks | One senior UX researcher for 40 hours | Griffin Sanders | Sharif Muhammad |
+| 4. Design interactive calendar interface with day week and month views | Ready for refinement | 3 weeks | Two junior developers for 72 hours | Cameron Brown | Griffin Sanders |
+| 5. Develop budget input screen with category selection and total calculation | Ready for refinement | 3 weeks | One senior and one junior developer for 64 hours | Sharif Muhammad | Cameron Brown |
+| 6. Implement event and budget syncing feature across devices | Ready for refinement | 3 weeks | Two junior developers for 72 hours | Griffin Sanders | Sharif Muhammad |
+| 7. As a teacher I want to organize class lessons parent meetings and grading deadlines on the calendar | Ready for implementation | 4 weeks | Two juniors and one senior for 96 hours | Cameron Brown | QA Lead |
+| 8. As a college student I want to link my budget to semester expenses like books tuition and clubs so I can see how each event impacts my spending | Active Project 3 | 4 weeks | One senior developer for 56 hours | Sharif Muhammad | UX Lead |
+| 9. As a working parent I want to receive reminders for family events and bills so I can balance work home activities and budget responsibly | Ready for implementation | 4 weeks | Two juniors and one senior for 96 hours | Griffin Sanders | Product Manager |
