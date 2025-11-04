@@ -1,13 +1,44 @@
-CSCI4221 Project 3 - Updated PBI Table
+# CSCI4221 Project 3  
+## PBI Item for Implementation  
 
-| PBI | Status | Sprint | Estimate | Assigned | Reviewer |
-|------|---------|---------|-----------|-----------|-----------|
-| 1. Research and document user behaviours of busy professionals using scheduling apps | Completed from Project 2 | 2 weeks | One senior UX researcher for 40 hours | Sharif Muhammad | Cameron Brown |
-| 2. Analyze time management and expense tracking needs of students | Completed from Project 2 | 2 weeks | One senior UX researcher for 40 hours | Cameron Brown | Griffin Sanders |
-| 3. Collect insights on how families plan and share events and budgets | Completed from Project 2 | 2 weeks | One senior UX researcher for 40 hours | Griffin Sanders | Sharif Muhammad |
-| 4. Design interactive calendar interface with day week and month views | Ready for refinement | 3 weeks | Two junior developers for 72 hours | Cameron Brown | Griffin Sanders |
-| 5. Develop budget input screen with category selection and total calculation | Ready for refinement | 3 weeks | One senior and one junior developer for 64 hours | Sharif Muhammad | Cameron Brown |
-| 6. Implement event and budget syncing feature across devices | Ready for refinement | 3 weeks | Two junior developers for 72 hours | Griffin Sanders | Sharif Muhammad |
-| 7. As a teacher I want to organize class lessons parent meetings and grading deadlines on the calendar | Ready for implementation | 4 weeks | Two juniors and one senior for 96 hours | Cameron Brown | QA Lead |
-| 8. As a college student I want to link my budget to semester expenses like books tuition and clubs so I can see how each event impacts my spending | Active Project 3 | 4 weeks | One senior developer for 56 hours | Sharif Muhammad | UX Lead |
-| 9. As a working parent I want to receive reminders for family events and bills so I can balance work home activities and budget responsibly | Ready for implementation | 4 weeks | Two juniors and one senior for 96 hours | Griffin Sanders | Product Manager |
+### Title  
+**Link Budget to Semester Expenses**
+
+---
+
+### User Story  
+_As a college student, I want to link my budget to semester expenses like books, tuition, and clubs so I can see how each event impacts my spending._
+
+---
+
+### Business Value  
+Gives student users a clear view of academic spending that affects their monthly and semester budgets, supporting smarter decisions and financial awareness.
+
+---
+
+### Acceptance Criteria  
+1. From the home screen, the user can tap **Budget → Add Semester Expense** and enter amount, category, and date.  
+2. Categories include **Tuition, Books, Supplies, Clubs**, and **Custom**.  
+3. The semester view shows totals by category and overall semester total.  
+4. Each new expense instantly updates monthly and semester totals.  
+5. Data persists across app restarts using local storage.  
+6. Two working clicks on the home screen are present (**Budget** and **Add Semester Expense**).  
+7. The prototype from Project 2 appears when `index.tsx` under `/app/tab` loads.
+
+---
+
+### Scope for Project 3  
+- Build **BudgetHome** screen with semester summary cards.  
+- Build **AddExpense** screen with form validation.  
+- Implement **local storage** model using `AsyncStorage`.  
+- Wire bottom tabs and navigation with **Expo Router**.  
+- Show prototype layout from Project 2 in `index.tsx`.  
+- Ensure **two clickable actions** on the home screen function properly.
+
+---
+
+### Definition of Done  
+- App runs using `npx expo start` with no errors.  
+- Folder structure matches **Expo default (9 subfolders, 8 files)**.  
+- Minutes and updated PBI table are pushed to the repository.  
+- Screens are reachable with two working clicks from the home screen.
