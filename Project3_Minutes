@@ -1,0 +1,24 @@
+CSCI4221 Project 3 - Group 1 Meeting Minutes
+
+Date: November 4, 2025
+Attendees: Sharif Muhammad, Cameron Brown, Griffin Sanders
+
+Topics Discussed:
+1. Reviewed Project 3 setup instructions and grading requirements.
+2. Confirmed each team member successfully cloned the group repository.
+3. Verified that Node.js LTS and Expo CLI were installed on all team computers.
+4. Discussed React Native Tutorial videos 1 to 9 and shared notes on setting up Expo projects.
+5. Assigned PBIs for Project 3 development phase.
+   - Sharif: PBI 8 - Budget to Semester Expenses (Active Project 3)
+   - Cameron: PBI 7 - Teacher Scheduling Interface
+   - Griffin: PBI 9 - Family Event Reminders
+6. Tested npx create-expo-app command to verify folder structure (9 subfolders, 8 files).
+7. Planned next meeting for November 7, 2025, to review AI-generated code progress and app functionality.
+8. Updated group PBI table to reflect current status and assignments.
+
+Remarks:
+- Each member will push their individual minutes and PBI files to GitHub before the deadline.
+- Ensure two clickable features on the home screen are functional by the next meeting.
+- Continue watching React Native tutorials and experimenting with prototype layouts.
+
+Next Meeting Date: November 7, 2025
